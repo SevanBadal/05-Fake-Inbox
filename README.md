@@ -1,5 +1,5 @@
 # Inbox Demo
-> Simple Inbox Simulator that loads fake data with faker.js.
+> Simple DOM minipulation that renders random input from faker.js.
 
 ![](header.gif)
 
