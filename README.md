@@ -1,7 +1,7 @@
 # Inbox Demo
 > Simple Inbox Simulator that loads fake data with faker.js.
 
-![](header.png)
+![](header.gif)
 
 ## Meta
 
